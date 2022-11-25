@@ -31,3 +31,12 @@ IPv4와 IPv6가 있음
 가장 큰 차이점은 주소길이임
 32비트 vs 128 비트
 
+Port번호: Process 식별자, Service, Interface
+1~65534번만 존재 
+
+Network -> 고속도로
+
+Switching? 경로 선택, 인터페이스 선택
+
+
+
