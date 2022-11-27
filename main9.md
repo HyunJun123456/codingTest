@@ -37,6 +37,6 @@ Port번호: Process 식별자, Service, Interface
 Network -> 고속도로
 
 Switching? 경로 선택, 인터페이스 선택
-
+ 
 
 
